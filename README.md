@@ -13,9 +13,9 @@
 * <a href="Phase 1(Setting up a virtual lab).md">Phase 1</a>
 * <a href="Phase 2(Information Gathering).md">Phase 2</a>
 * <a href="Phase 3(Scanning and Enumeration).md">Phase 3</a>
-* <a href="Phase 4(Gaining access).md">Phase 4</a>
-* <a href="Phase 5(Maintaining Acess).md">Phase 5</a>
-* <a href="Phase 6(The reporting phase).md">Phase 6</a>
+* <a href="Phase 4(Gaining Access).md">Phase 4</a>
+* <a href="Phase 5(Maintaining Access).md">Phase 5</a>
+* <a href="Phase 6(The Reporting Phase).md">Phase 6</a>
 
 ---
 

@@ -1,6 +1,6 @@
 
 
-# INRODUCTION
+# INTRODUCTION
 
 Ethical hacking is a socially accepted form of hacking that seeks to help, rather than hurt, the owners and users of a website or computer network. 
 In fact, ethical hackers help businesses to be alert to the weaknesses in their security systems so that these can be improved. As businesses use computers and virtual network to house tons and tons of business and customer data,it becomes a highly attractive target for hackers. In this scenario, ethical hackers serve a very useful purpose by identifying weak spots in these systems that can make it vulnerable to unethical hackers. <br>
