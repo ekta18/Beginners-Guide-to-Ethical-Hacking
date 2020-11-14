@@ -1,4 +1,4 @@
- # Gaining access
+# Gaining Access
  
   Gaining access is the most important phase of an attack in terms of potential damage, although attackers don’t always have to gain access to the system to cause damage. For instance, denial-of-service attacks can either exhaust resources or stop services from running on the target system. Stopping a service can be carried out by killing processes, using a logic/time bomb, or even reconfiguring and crashing the system. Resources can be exhausted locally by filling up outgoing communication links.
 
