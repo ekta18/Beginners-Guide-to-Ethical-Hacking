@@ -1,4 +1,5 @@
 # Information Gathering
+
   How does a common penetration test start? First, we need to determine the pentest area, set specific goals and objectives. Naturally, preparations take most of the project time. After all, the goal of a pentest is not only to detect a known software vulnerability. Nor we strive to find all the gaps in IT infrastructure using automated scanners, which are utterly useless. Pentesting is a complex multi-step process, and surveillance plays here a key role. After all, the main goal of a pentest is to mimic the real actions of the intruders.The result of our pentesting session depends on the completeness of the information we gather. Recon is the most important and the longest stage of pentesting, as we will build attack vectors at the detected entry points based on the information we gathered previously. All the data we obtain in the process will be included in our final report.  
 
   This divides this phase into two parts:-

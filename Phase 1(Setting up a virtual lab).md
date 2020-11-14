@@ -1,4 +1,4 @@
-# Setting up a lab 
+# Setting up a Virtual Lab 
 
 We need to setup a virtual lab so that our acts wont affect our main system or may not harm our main system while we conduct any test as handling of some potentially dangerous malwares may be needed at certain stages. 
 To set up a lab we will be using kali linux/Parrot Sec OS.
@@ -75,12 +75,13 @@ We are going to set up a virtual lab refer to the section which belongs to your 
  6. In terminal type in virtualbox and press Enter . This will prompt the VirtualBox main window to open. Now that you've installed and opened VirtualBox, you can proceed with creating a virtual machine in order to run any operating system on your computer.
 
 
+
 ## 2. Creating A Virtual Machine 
  Now that we have the virtualization host software installed, let’s start downloading some virtual machines. The first virtual machine we will install is Kali Linux. Kali Linux is one of the most popular hacking distributions used today and was created by Offensive Security. They provide .iso files that allow you to do a clean installation from burning the disk image to a CD or a bootable USB stick. However, there is a simpler option we are going to use with our virtual hosting software.
 
  1. Visit https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/ There you can download the compressed VirtualBox files or the .ova files for VirtualBox.
  
- After the download completes, you will notice the file is a compressed .7z format. To unzip this file, you will need to install 7-zip. You can download the installation file at https://7-zip.org. Just like the virtual machine file you will need to select the file based on the architecture you are using. And just like before, we will select the 64-bit file you may choose depending on your system.
+    After the download completes, you will notice the file is a compressed .7z format. To unzip this file, you will need to install 7-zip. You can download the installation file at https://7-zip.org. Just like the virtual machine file you will need to select the file based on the architecture you are using. And just like before, we will select the 64-bit file you may choose depending on your system.
 
  2. Next, wait for the file to be extracted. Once it’s done, move the folder to a location you are comfortable with and remember the location. Next, open VirtualBox and click File and then select “Open”.
 

@@ -1,6 +1,6 @@
 # Maintaining access
 
- Once a pentester manages to gain access to the target system, he should work hard to keep his boat afloat, metaphorically speaking. He can choose either to use the hijacked system as a launching-pad (i.e., to be part of a botnet for DDoS attacks or spam campaigns), at this moment attack, scan and exploit other systems, or keep on exploiting the current system in stealth mode. Both actions can entail a great deal of damage.
+ Once a pentester manages to gain access to the target system, he should work hard to keep his boat afloat, metaphorically speaking. He can choose either to use the hijacked system as a launching-pad (i.e. to be part of a botnet for DDoS attacks or spam campaigns), at this moment attack, scan and exploit other systems, or keep on exploiting the current system in stealth mode. Both actions can entail a great deal of damage.
 
 ## Tools and Methods for Maintaining Access
 
@@ -8,7 +8,7 @@
   
   Much like remote access Trojans (RATs), backdoors are installed in target systems and come with built-in upload/download functionality. They upload gathered files of interest and then rely on ports like port 53 (for DNS) and 80 and 443 (for HTTP and HTTPS, respectively) to cover up their traffic. TrendMicro reports cyber incidents connected to attackers bypassing “the connection restriction whenever they use HTTP to transmit data and to bypass detection. Based on [TrendMicro’s] investigation, there are instances when attackers manually download the .ZIP file containing all collected data.”
  
-### A Covert Channel
+### Covert Channel
 
  A covert channel is when data is being sent through secret communication tunnels. VoIP, DNS tunnels, ICMP tunnels, and HTTP tunnels are such paths for data extraction from the inside of a network. All of these covert channels can transport encrypted data as well.
 

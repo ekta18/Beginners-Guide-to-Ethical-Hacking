@@ -1,6 +1,6 @@
 # :zap: Beginners Guide to Ethical Hacking
  
-<img src="https://img.freepik.com/free-photo/hacker-black-hoodie-holding-laptop-with-virtual-display-server-data-chart-bar-binary-code-world-map_9083-3031.jpg?size=900&ext=jpg" alt="BannerImage">
+<img src="https://img.freepik.com/free-photo/hacker-black-hoodie-holding-laptop-with-virtual-display-server-data-chart-bar-binary-code-world-map_9083-3031.jpg?size=800&ext=jpg" alt="BannerImage">
 <p align="center">
     <b>An Absolute Guide On Ethical Hacking for Newbies with zero knowledge</b>
 </p>
@@ -9,24 +9,17 @@
 
 ## Table of Contents
 
-* [Introduction](Introduction.md)
 * <a href="Introduction.md">Introduction</a>
 * <a href="Phase 1(Setting up a virtual lab).md">Phase 1</a>
-* <a href="Introduction.md">Introduction</a>
-* <a href="Introduction.md">Introduction</a>
-* <a href="Introduction.md">Introduction</a>
-* <a href="Introduction.md">Introduction</a>
-* <a href="Introduction.md">Introduction</a>
-* [Phase 1](Phase 1(Setting up a virtual lab).md)
-* [Phase 2](Phase 2(Information Gathering).md)
-* [Phase 3](Phase 3(Scanning and Enumeration).md)
-* [Phase 4](Phase 4(Gaining access).md)
-* [Phase 5](Phase 5(Maintaining Acess).md)
-* [Phase 6](Phase 6(The reporting phase).md)
+* <a href="Phase 2(Information Gathering).md">Phase 2</a>
+* <a href="Phase 3(Scanning and Enumeration).md">Phase 3</a>
+* <a href="Phase 4(Gaining access).md">Phase 4</a>
+* <a href="Phase 5(Maintaining Acess).md">Phase 5</a>
+* <a href="Phase 6(The reporting phase).md">Phase 6</a>
 
 ---
 
-### Report
+### Disclaimer
 
 - This repostory is only for EDUCATIONAL PURPOSE and purpose of this repository is guide for the potential learners who are intrested in ehical hacking and also may help the one seeking a job in this field.
 - Do not attempt to violate the law with anything contained here. 
@@ -64,7 +57,7 @@
 <br>
 <p align="center">
   <a href="https://www.csi.sfit.ac.in/">
-    <img src="https://www.csi.sfit.ac.in/logo.png"
+    <img src="https://raw.githubusercontent.com/CSI-SFIT/Getting-Started-With-Hacktoberfest/main/Images/CSI_Logo.png"
          alt="csi_logo" width="300" height="200">
   </a>
 </p>

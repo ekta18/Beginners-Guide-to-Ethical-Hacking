@@ -43,7 +43,7 @@
   
   The above shown is the example of using nmap on a host this was carried out in terminal of my linux device and also it has detected the virtual system present mac addresses of the system are cencersored as this is only for educational purpose.So guys now practice this on your own systems and move a step ahead in this field i also suggest you to refer the cheat sheet for nmap as this is an these two phases are very important and always keep record of the information collected in these phases even a single vulnerable port can lead to a huge impact on asset.
   
-  - Tool link:- https://nmap.org/download.html (Kali has it pre installed, only windows users need to download).
+  - Tool link :- https://nmap.org/download.html (Kali has it pre installed, only windows users need to download).
  
 # [Red Hawk](https://github.com/Tuhinshubhra/RED_HAWK) 
  
