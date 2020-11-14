@@ -1,4 +1,4 @@
-# The reporting phase
+# The Reporting Phase
 
  While maybe not the most enjoyable of the penetration testing phases, reporting is probably the most important phase.
 

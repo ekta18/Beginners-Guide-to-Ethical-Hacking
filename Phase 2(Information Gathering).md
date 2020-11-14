@@ -40,9 +40,9 @@
   
 ## Resources
  
-- Nmap offical site :-https://nmap.org/download.html
+- Nmap offical site :- https://nmap.org/download.html
 
-- Nmap cheat sheet:- https://www.stationx.net/nmap-cheat-sheet/
+- Nmap cheat sheet :- https://www.stationx.net/nmap-cheat-sheet/
   
   
   

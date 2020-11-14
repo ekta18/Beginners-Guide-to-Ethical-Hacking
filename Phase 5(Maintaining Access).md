@@ -24,6 +24,8 @@
 
  Delay delivery for a voicemail in cases of VoIP RTR exfiltration tunneling so that he can send to an audio processor, which will examine every packet for encoded data in a voicemail (in a similar fashion as antispam software works).
 
+---
+
 ### Rootkit
 
  A rootkit is a type of malware highly adept at hiding itself from a computer system. Hence, what distinguish rootkits from other types of malware is their heightened ability to conceal themselves to bypass the computer security measures. In effect, that is the main idea behind their creation.
@@ -31,6 +33,8 @@
  Rootkits are usually loaded with the help of Trojan horses, starting on the targeted platform with “user” level access. Once getting an initial foothold into the system under attack, they spy on passwords and other similar login details to gain “administrator” level access. This process is called privilege escalation. Nevertheless, the rootkits’ real “specialty” is maintaining access.
 
  Unlike the ordinary viruses which attempt to inflict as much damage as possible for a short period, rootkits tend to lurk in the targeted system, progressively and slowly undermining it. Prima facie the emphasis is on the word ‘secrecy’. For example, rootkit keyloggers are designed to record the words the victim types without his knowledge. It has plenty of time to steal sensitive information given the fact that this malware may remain undetected, which will, in turn, increase the probability of identity theft.
+
+---
 
 ### Data Exfiltration
 

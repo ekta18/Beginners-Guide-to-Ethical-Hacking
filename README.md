@@ -10,12 +10,12 @@
 ## Table of Contents
 
 * <a href="Introduction.md">Introduction</a>
-* <a href="Phase 1(Setting up a virtual lab).md">Phase 1</a>
-* <a href="Phase 2(Information Gathering).md">Phase 2</a>
-* <a href="Phase 3(Scanning and Enumeration).md">Phase 3</a>
-* <a href="Phase 4(Gaining Access).md">Phase 4</a>
-* <a href="Phase 5(Maintaining Access).md">Phase 5</a>
-* <a href="Phase 6(The Reporting Phase).md">Phase 6</a>
+* <a href="Phase 1(Setting up a virtual lab).md">Phase 1(Setting up a virtual lab)</a>
+* <a href="Phase 2(Information Gathering).md">Phase 2(Information Gathering)</a>
+* <a href="Phase 3(Scanning and Enumeration).md">Phase 3(Scanning and Enumeration)</a>
+* <a href="Phase 4(Gaining Access).md">Phase 4(Gaining Access)</a>
+* <a href="Phase 5(Maintaining Access).md">Phase 5(Maintaining Access)</a>
+* <a href="Phase 6(The Reporting Phase).md">Phase 6(The Reporting Phase)</a>
 
 ---
 
