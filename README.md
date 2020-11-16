@@ -58,6 +58,6 @@
 <p align="center">
   <a href="https://www.csi.sfit.ac.in/">
     <img src="https://raw.githubusercontent.com/CSI-SFIT/Getting-Started-With-Hacktoberfest/main/Images/CSI_Logo.png"
-         alt="csi_logo" width="300" height="200">
+         alt="csi_logo" width="300" height="300">
   </a>
 </p>
