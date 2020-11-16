@@ -35,13 +35,13 @@ Thus, they use this knowledge to prevent such attacks on different parts of the 
 
 ## Steps involved In Ethical Hacking
 
-### 1. Setting up a Virtual Lab
-### 2. Information Gathering
-### 3. Scanning and Enumeration 
-### 4. Gaining access
-### 5. Maintaining access
-### 6. Analysis 
-### 7. Clearing Traces
+1. <a href="https://github.com/ekta18/Ethical_hacking/blob/master/Phase%201(Setting%20up%20a%20virtual%20lab).md">Setting up a Virtual Lab</a>
+2. <a href="https://github.com/ekta18/Ethical_hacking/blob/master/Phase%202(Information%20Gathering).md">Information Gathering</a>
+3. <a href="https://github.com/ekta18/Ethical_hacking/blob/master/Phase%203(Scanning%20and%20Enumeration).md">Scanning and Enumeration</a> 
+4. <a href="https://github.com/ekta18/Ethical_hacking/blob/master/Phase%204(Gaining%20Access).md">Gaining access</a>
+5. <a href="https://github.com/ekta18/Ethical_hacking/blob/master/Phase%205(Maintaining%20Access).md">Maintaining access</a>
+6. <a href="#">Analysis</a> 
+7. <a href="#">Clearing Traces</a>
 
 
 
