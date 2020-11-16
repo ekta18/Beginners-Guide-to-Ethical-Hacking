@@ -53,6 +53,7 @@
 
 **CSI SFIT Tech Team 2020 - 2021 :**
 + Tech Executive : [@HarshMalhotra](https://github.com/harsh2527)
++ Tech Executive : [@EktaMasrani](https://github.com/ekta18)
 
 <br>
 <p align="center">
