@@ -19,7 +19,7 @@
 
 ---
 
-### Disclaimer
+### Disclaimer :rotating_light:
 
 - This repostory is only for **EDUCATIONAL PURPOSE** and purpose of this repository is guide for the potential learners who are interested in **learning ethical hacking** and also may help the one **seeking a job** in this field.
 - **Do not attempt to violate the law with anything contained here.** 
